@@ -36,6 +36,13 @@ while True:
             print ("Gracias, Vuelva pronto..!")
             break
 
+
+
+# Elaborar un programa para un alumno, ingresar el nombre
+# del curso y su respectiva cantidad de créditos (de 1 a 5) y
+# mostrar la cantidad de cursos ingresados y el acumulado de créditos.
+# Usar Menú de opciones y validar datos
+
     
 
 
